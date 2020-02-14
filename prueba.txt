@@ -7,4 +7,10 @@ push master
 
 prueba de una rama developer
 
+<<<<<<< HEAD
 agregando datos en fecht
+=======
+modificando rama reporte
+
+esta es una modificacion extra
+>>>>>>> developer
